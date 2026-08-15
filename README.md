@@ -1,5 +1,7 @@
 # Hi, I'm Howie Wang / 你好，我是浩哥
 
+**AI Engineer & Hands-on Dad / AI工程师｜一线奶爸**
+
 I explore how AI can help us **work, learn, create, and live better** — through real projects, useful experiments, and honest stories.
 
 我用真实项目和日常实验探索 AI 能为普通人做什么，把有效的方法沉淀为工具、内容和可复用经验。
