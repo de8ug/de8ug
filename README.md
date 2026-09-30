@@ -17,7 +17,9 @@ I explore how AI can help us **work, learn, create, and live better** — throug
 
 - [**HaoStory**](https://github.com/de8ug/HaoStory) — turn real work with AI agents into privacy-reviewed bilingual stories and executable content packages.
 - **UP2U** — a personally curated navigator for AI problems, ideas, and directions worth testing.
-- **OneTake** — a recording-first experiment for demos, teaching, and screen-based storytelling.
+- **OneTake / 一录** — a recording-first tool for people who want to explain ideas on camera, with a teleprompter, whiteboard and useful visuals. 用真人口播、提词与白板，把想法更顺畅地录成视频。[Website / 官网](https://onetake.show)
+- [Project Generator Skill / 工程生成技能](https://github.com/de8ug/onetake-project-generator) — prepare editable talking-head and whiteboard projects from a topic.
+- [Video Workbench / 本地视频工作台](https://github.com/de8ug/onetake-companion) — prepare projects and handle simple local finishing.
 - **AI-assisted learning & parenting** — practical experiments for families, education, and personal growth.
 
 ## Start here / 从这里开始
